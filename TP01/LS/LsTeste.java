@@ -69,7 +69,7 @@ public class LsTeste {
             }
         }
 
-        if (digitos > 0 && pontos <= 1) {
+        if (digitos > 0 && pontos <= 1) {                  
             return "SIM";
         }
 

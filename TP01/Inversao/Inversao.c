@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+
+// fução que ve se se a palavra é FIM para parar o programa
 bool isFim(char* palavra){
     int i = 0;
     int tam = 0;
